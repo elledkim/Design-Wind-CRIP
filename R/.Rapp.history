@@ -1,0 +1,2 @@
+load("/Users/daniellekim/Documents/GitHub/dws/R/sysdata_winds.Rdata")
+load("/Users/daniellekim/Documents/GitHub/dws/R/sysdata.rda")
